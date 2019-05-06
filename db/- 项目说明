@@ -1,0 +1,18 @@
+部署文档
+    修改redis、数据库配置文件
+	
+	jar包数据库连接账号： 
+	username: root 
+	password: root
+	
+	redis: 无
+	
+	mysql数据库名： news
+	
+	默认账号密码： admin/123456
+	
+系统部署环境：
+	jdk 1.8++
+	tomcat8++
+	redis
+	mysql 5.7++
